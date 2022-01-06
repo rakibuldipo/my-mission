@@ -1,0 +1,119 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.a{
+    width: 50%;
+    padding: 8%;
+    text-align: left;
+}
+.run{
+    text-align: left;
+    font-size: 45px;
+}
+.c{
+    width: 55%;
+    padding: 25%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(76, 190, 110), rgb(124, 228, 110)) ;
+    padding:  10px 40px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5%;
+}
+h1{
+    text-align: center;
+}
+.dd{
+    width: 55%;
+    padding: 25%;
+}
+.ee{
+    width: 55%;
+    padding: 25%;
+}
+.ff{
+    width: 55%;
+    padding: 25%;
+}
+.d{
+    padding: 2%;
+    background-color: rgb(197, 245, 209);
+    border-bottom: 20%; 
+    margin: 50px;
+}
+.e{
+    padding: 2%;
+    background-color: rgb(197, 245, 209);
+    border-bottom: 20%;
+    margin: 50px;
+}
+.f{
+    padding: 2%;
+    background-color: rgb(197, 245, 209);
+    border-bottom: 20%;
+    margin: 50px;
+}
+.g{
+    padding-left: 5%;
+    
+}
+.gg{
+    width: 70%;
+    padding:5%; 
+}
+h2{
+    font-size: 25px;
+}
+.h{
+    padding-left: 0%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato) ;
+    padding:  10px 40px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5%;
+}
+.i{
+    padding: 10%;  
+}
+.jj{
+    width: 80%;
+    padding: 2%;
+}
+.kk{
+    width: 70%;
+    padding:10%; 
+}
+.m{
+    padding-left: 0%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.x{
+    background-color: black;
+    border : 2px solid blue;
+}
+.y{
+    color: blanchedalmond;
+    text-align: center;
+    padding-top: 2%;
+}
+.z{
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 2%;
+}
